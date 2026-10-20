@@ -2,7 +2,7 @@
 
 I'm a software developer from Kuopio, Finland. I graduated with an MSc in Computer Science from the University of Eastern Finland in 2026, and I've been programming for over ten years, mostly real-time 3D, simulations and games in C# and Rust. I'm especially interested in real-time graphics, simulation and performance-critical software.
 
-<img src="https://github.com/user-attachments/assets/fddbd01d-ad73-46bb-8f66-2a4b18844197" alt="Ocean simulation above water" width="100%">
+<img src="https://media.githubusercontent.com/media/Karhut-Games/antifish/main/.github/images/hero-lake-shore.jpg?token=AB5T6YGNT3KCSL2UEM3ID7TK26FFY" alt="A procedurally generated island" width="100%">
 
 ### Projects
 
